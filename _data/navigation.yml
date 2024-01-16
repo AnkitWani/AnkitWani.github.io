@@ -12,14 +12,11 @@ main:
   - title: "Projects" #teaching
     url: /teaching/    
 
-  - title: "Certification & Achievements" #year-archieve
+  - title: "Achievements" #year-archieve
     url: /year-archive/
     
   - title: "Articles" #portfolio
     url: /portfolio/
-        
-  - title: "Certification & Achievements" #year-archieve
-    url: /year-archive/
     
   - title: "Personal Blog Posts"
     url: /markdown/
