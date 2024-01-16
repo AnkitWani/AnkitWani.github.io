@@ -11,6 +11,9 @@ main:
 
   - title: "Projects" #teaching
     url: /teaching/    
+
+  - title: "Certification & Achievements" #year-archieve
+    url: /year-archive/
     
   - title: "Articles" #portfolio
     url: /portfolio/
