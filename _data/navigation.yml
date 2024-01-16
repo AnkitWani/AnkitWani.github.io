@@ -6,17 +6,17 @@ main:
   - title: "Patents"
     url: /talks/    
 
-  - title: "Projects"
+   - title: "Projects" #teaching
     url: /teaching/    
     
-  - title: "Articles"
+  - title: "Articles" #portfolio
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Certification & Achievements" #year-archieve
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Ankit_Wani_Data_Scientist_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Personal Blog Posts"
+  #   url: /markdown/
