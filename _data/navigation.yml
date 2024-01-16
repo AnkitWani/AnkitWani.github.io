@@ -6,7 +6,7 @@ main:
   - title: "Patents"
     url: /talks/    
 
-   - title: "Projects" #teaching
+  - title: "Projects" #teaching
     url: /teaching/    
     
   - title: "Articles" #portfolio
