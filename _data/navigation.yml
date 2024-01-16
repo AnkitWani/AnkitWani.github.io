@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Patents"
-    url: /talks/    
+    url: /talks/ 
+
+  - title: "CV"
+    url: /cv/   
 
   - title: "Projects" #teaching
     url: /teaching/    
@@ -14,9 +17,6 @@ main:
         
   - title: "Certification & Achievements" #year-archieve
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Personal Blog Posts"
     url: /markdown/
