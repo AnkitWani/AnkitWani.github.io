@@ -5,6 +5,7 @@ excerpt: >
   <br/><a href="https://www.autocarpro.in/feature/branded-content-the-efficient-road-to-sustainable-mobility-116230" target="_blank">
   ![Click to read the article](/images/fev article.jpg)
   </a>
+  <br/>Click the image to read the article.
 collection: portfolio
 ---
 
