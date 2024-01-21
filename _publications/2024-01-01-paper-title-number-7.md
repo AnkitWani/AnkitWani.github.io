@@ -8,6 +8,6 @@ venue: 'SAE International World Congress Experience (WCX), Detroit, USA'
 paperurl: 'http://academicpages.github.io/files/paper7.pdf'
 citation: 'Ankit Wani, You. (2009). &quot;Monocular vision-based distance estimation, safe distance monitoring and collision warning systemMonocular vision-based distance estimation, safe distance monitoring and collision warning system.&quot; <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).'
 ---
-[Download paper here](http://academicpages.github.io/files/paper7.pdf)
+[Download](http://academicpages.github.io/files/paper7.pdf){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "Monocular vision-based distance estimation, safe distance monitoring and collision warning system" <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).
