@@ -8,6 +8,6 @@ venue: 'SAE International World Congress Experience (WCX), Detroit, USA'
 paperurl: 'http://academicpages.github.io/files/paper8.pdf'
 citation: 'Ankit Wani, You. (2009). &quot;Accelerating AI-based development of Animal Detection features for Indian Traffic scenarios with An Automated Annotation Approach.&quot; <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).'
 ---
-[Download paper here](http://academicpages.github.io/files/paper8.pdf)
+[Download](http://academicpages.github.io/files/paper8.pdf){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "Accelerating AI-based development of Animal Detection features for Indian Traffic scenarios with An Automated Annotation Approach" <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).
