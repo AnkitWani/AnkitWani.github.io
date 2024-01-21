@@ -8,7 +8,7 @@ venue: 'SAE International World Congress Experience (WCX), Detroit, USA'
 paperurl: 'http://academicpages.github.io/files/paper11.pdf'
 citation: 'Ankit Wani, You. (2009). &quot;Ethics in the Driver’s Seat: Unravelling the Ethical Dilemmas of AI in Autonomous Driving.&quot; <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).'
 ---
-[Download paper here](http://academicpages.github.io/files/paper11.pdf)
+[Download](http://academicpages.github.io/files/paper11.pdf){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "Ethics in the Driver’s Seat: Unravelling the Ethical Dilemmas of AI in Autonomous Driving" <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).
 
