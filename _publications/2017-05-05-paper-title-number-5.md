@@ -8,6 +8,6 @@ venue: 'In International Journal of Innovative Research in Science Engineering a
 paperurl: 'https://shorturl.at/qDJ25'
 citation: 'Ankit Wani, You. (2009). &quot;The Phone Sat and Application.&quot; <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).'
 ---
-[Download paper here](https://shorturl.at/qDJ25)
+[Download](https://shorturl.at/qDJ25){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "The Phone Sat and Application" <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).
