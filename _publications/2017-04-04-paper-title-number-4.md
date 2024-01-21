@@ -8,6 +8,6 @@ venue: 'In International Journal of Innovative Research in Science Engineering a
 paperurl: 'https://shorturl.at/kzQVW'
 citation: 'Ankit Wani, You. (2009). &quot;Emerging trends of Green IOT for Smart World.&quot; <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).'
 ---
-[Download paper here](https://shorturl.at/kzQVW)
+[Download](https://shorturl.at/kzQVW){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "Emerging trends of Green IOT for Smart World" <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).
