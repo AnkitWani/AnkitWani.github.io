@@ -8,7 +8,7 @@ main:
 
   - title: "CV"
     # url: /cv/ 
-    url: /files/Resume.pdf/
+    url: https://AnkitWani.github.io/files/Ankit_18_Jan_2024__1_%20(1).pdf
 
   - title: "Projects" #teaching
     url: /teaching/    
