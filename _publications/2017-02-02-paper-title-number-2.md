@@ -8,6 +8,6 @@ venue: 'In International Journal of Innovative Research in Science Engineering a
 paperurl: 'https://shorturl.at/bhDLT'
 citation: 'Ankit Wani, You. (2009). &quot;A Survey on Millimeter-Wave A Permissive Technology for 5G Cellular Communication.&quot; <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).'
 ---
-[Download paper here](https://shorturl.at/bhDLT)
+[Download](https://shorturl.at/bhDLT){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "A Survey on Millimeter-Wave A Permissive Technology for 5G Cellular Communication" <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).
