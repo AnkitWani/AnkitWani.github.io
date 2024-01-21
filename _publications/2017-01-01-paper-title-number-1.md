@@ -8,6 +8,6 @@ venue: 'In International Conference on Inventive Systems and Control (IEEE)'
 paperurl: 'https://shorturl.at/aegJW'
 citation: 'Ankit Wani, You. (2009). &quot;Flying Rubick’s with self assembling using M-Blocks.&quot; <i>In International Conference on Inventive Systems and Control (IEEE)</i>. 1(1).'
 ---
-[Download paper here](https://shorturl.at/aegJW){: .btn}
+[Download](https://shorturl.at/aegJW){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "Flying Rubick’s with self assembling using M-Blocks" <i>In International Conference on Inventive Systems and Control (IEEE)</i>. 1(1).
