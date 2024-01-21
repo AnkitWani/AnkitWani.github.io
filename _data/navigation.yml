@@ -21,8 +21,8 @@ main:
   - title: "Personal Blog Posts"
     url: /markdown/
 
-     # Dark Mode/Light Mode Toggle
-  - title: "Toggle Dark/Light Mode"
-    url: "javascript:void(0);"
-    output: false  # This ensures it's not a clickable link
-    weight: 999    # Adjust the weight to control its position in the navigation
+  #    # Dark Mode/Light Mode Toggle
+  # - title: "Toggle Dark/Light Mode"
+  #   url: "javascript:void(0);"
+  #   output: false  # This ensures it's not a clickable link
+  #   weight: 999    # Adjust the weight to control its position in the navigation
