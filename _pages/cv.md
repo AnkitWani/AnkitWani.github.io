@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% for post in site.CV %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Education
 ======
