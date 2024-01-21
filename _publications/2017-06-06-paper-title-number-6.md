@@ -8,6 +8,6 @@ venue: 'In International Journal of Innovative Research in Science Engineering a
 paperurl: 'https://rb.gy/xk770c'
 citation: 'Ankit Wani, You. (2009). &quot;Performance Analysis of class EF2 Inverter and Rectifier for Wireles Power Transfer Systems.&quot; <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).'
 ---
-[Download paper here](https://rb.gy/xk770c)
+[Download](https://rb.gy/xk770c){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "Performance Analysis of class EF2 Inverter and Rectifier for Wireles Power Transfer Systems" <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).
