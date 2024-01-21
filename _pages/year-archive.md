@@ -19,7 +19,6 @@ redirect_from:
 {% endfor %} -->
 
 
-# Awards & Achievements
 
 - **2016:** Graduated at the Top of my institution with a remarkable 78.93%.
   
