@@ -9,6 +9,9 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+
   </head>
 
   <body>
@@ -26,6 +29,8 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    <!-- Add the dark mode/light mode JavaScript file -->
+    <script src="{{ "/assets/js/script.js" | relative_url }}"></script>
 
   </body>
 </html>
