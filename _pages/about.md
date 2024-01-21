@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who Am I"
+title: "Who Am I 😎 "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm Ankit Shrikrishna Wani, a seasoned Data Scientist and Engineer with over 50 years of experience in the field of Artificial Intelligence and Autonomous Driving. My journey has been a rich tapestry of research, innovation, and problem-solving, woven together by a deep passion for technology and its potential to change the world.
+I'm Ankit Shrikrishna Wani, a seasoned Data Scientist and Engineer with over 2 years of experience in the field of Artificial Intelligence and Autonomous Driving. My journey has been a rich tapestry of research, innovation, and problem-solving, woven together by a deep passion for technology and its potential to change the world.
 
 ## 🎓 Education
 I hold a PG Diploma in Artificial Intelligence from Centre for Development of Advanced Computing ACTS and a Bachelor of Engineering in Electronics and Telecommunication Engineering from Siddhant College of Engineering.
@@ -24,7 +24,7 @@ I have contributed to 10 papers in various journals and conferences related to A
 ## 💼 Work Experience
 I've had the privilege of working as a Data Scientist and ADAS Engineer at FEV India Pvt. Ltd., AI Engineer at Griffyn Robotech Pvt. Ltd., Software Engineer at Protocontrol Instruments Pvt. Ltd., and Trainee at BSNL.
 
-## 🏆 Awards & Achievements²[2]
+## 🏆 Awards & Achievements
 Throughout my career, I've been recognized for my academic excellence, innovative research, and leadership in coding competitions and sports.
 
 ## 💻 Skills Summary
