@@ -8,6 +8,6 @@ venue: 'SAE International World Congress Experience (WCX), Detroit, USA'
 paperurl: 'http://academicpages.github.io/files/paper9.pdf'
 citation: 'Ankit Wani, You. (2009). &quot;A real-time autonomous system designed for in-cabin safety using camera.&quot; <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).'
 ---
-[Download paper here](http://academicpages.github.io/files/paper9.pdf)
+[Download](http://academicpages.github.io/files/paper9.pdf){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "A real-time autonomous system designed for in-cabin safety using camera" <i>SAE International World Congress Experience (WCX), Detroit, USA</i>. 1(1).
