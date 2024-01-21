@@ -8,6 +8,6 @@ venue: 'In International Journal of Innovative Research in Science Engineering a
 paperurl: 'https://shorturl.at/mrvwA'
 citation: 'Ankit Wani, You. (2009). &quot;Health Care Systems using Internet of Things.&quot; <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).'
 ---
-[Download paper here](https://shorturl.at/mrvwA)
+[Download](https://shorturl.at/mrvwA){: .btn}
 
 Recommended citation: Ankit Wani, You. (2009). "Health Care Systems using Internet of Things" <i>In International Journal of Innovative Research in Science Engineering and Technology (IJIRCCE)</i>. 1(1).
